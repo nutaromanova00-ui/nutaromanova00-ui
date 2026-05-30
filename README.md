@@ -105,11 +105,14 @@
 ## 🎒 Образование
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/main/diploma-with-number_ru.png">
-    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/main/diploma-with-number_ru.png" width="250" />
+  <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/certificate_QA_eng.png">
+    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/certificate_QA_eng.png" width="250" />
   </a>
-  <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/main/Letter12.png">
-    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/main/Letter12.png" width="250" />
+  <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/certificate_QA_rus.png">
+    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/certificate_QA_rus.png" width="250" />
+  </a>
+   <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/api.png">
+    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/api.png" width="243" />
   </a>
 </div>
 
