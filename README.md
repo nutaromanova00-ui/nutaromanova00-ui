@@ -124,7 +124,7 @@
   <a href="mailto:german@dolnikov.ru">
     <img src="https://images.icon-icons.com/2530/PNG/512/email_me_button_icon_151852.png" width="125" />
   </a>
-  <a href="https://t.me/Idi_Otta">
+  <a href="https://t.me/@Casi_Listo">
     <img src="https://images.icon-icons.com/2530/PNG/512/telegram_button_icon_151837.png" width="125" />
   </a>
 </div>
