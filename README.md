@@ -63,6 +63,7 @@
 <div align="center">
   <img src="https://yastatic.net/s3/tuning/static/pages/brand-services/versions/0.0.10/assets/downloads/иконка_трекер.png" title="Yandex Tracker" width="45" />
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test IT" width="45" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/18/a2/4818a2b0-9a0d-820b-08ce-5dc3c8025f9e/Placeholder.mill/400x400bb-75.webp" title="Miro" width="45" />
 </div>
 
 ---
@@ -82,7 +83,7 @@
 
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=jsgQw8uhx0dh&format=png&color=000000" title="GitLab" width="45" />
-  <img src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" title="VS Code" width="45" />
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="VS Code" width="45" />
 </div>
 
 ---
