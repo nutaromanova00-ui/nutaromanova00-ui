@@ -88,20 +88,6 @@
 
 ---
 
-## 🪴 Практика и стажировка
-
-<div align="center">
-  <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/main/certificate_auto.png">
-    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/main/certificate_auto.png" width="250" />
-  </a>
-  <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/main/certificate3.png">
-    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/main/certificate3.png" width="250" />
-  </a>
-</div>
-
-> **Важно:** Добавьте реальные файлы сертификатов в ваш репозиторий и укажите корректные пути.
-
----
 
 ## 🎒 Образование
 
