@@ -105,6 +105,18 @@
 
 ---
 
+
+## 🎒 Стажировки
+
+<div align="center">
+    <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/Серт стажировка русский.png">
+    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/Серт стажировка русский.png" width="250" />
+  </a>
+  </div>
+  
+  ---
+
+
 ## 🤝 Контакты
 
 <div align="center">
