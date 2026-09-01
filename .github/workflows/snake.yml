@@ -1,0 +1,33 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # обновляется каждые 12 часов
+  push:
+    branches: [ main ]        # если ваша главная ветка называется master — замените
+  workflow_dispatch:          # возможность запускать вручную
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake from contributions
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nutaromanova00-ui
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push output to branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
