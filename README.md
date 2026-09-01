@@ -9,7 +9,7 @@
 
 ---
 
-## ## 🐍 Моя активность
+## 🐍 Моя активность
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/output/github-snake-dark.svg" />
