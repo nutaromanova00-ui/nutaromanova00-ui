@@ -9,15 +9,13 @@
 
 ---
 
-## 📊 Статистика
+## ## 🐍 Моя активность
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nutaromanova00-ui&theme=material-palenight&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nutaromanova00-ui&theme=material-palenight&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nutaromanova00-ui&theme=material-palenightk&hide_border=true&area=true" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/output/github-snake.svg" />
+  <img alt="Змейка из моих коммитов" src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/output/github-snake.svg" />
+</picture>
 
 ---
 
