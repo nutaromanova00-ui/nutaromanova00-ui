@@ -13,9 +13,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nutaromanova00-ui&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nutaromanova00-ui&theme=github-light&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nutaromanova00-ui&theme=github-dark&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nutaromanova00-ui&theme=material-palenight&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nutaromanova00-ui&theme=material-palenight&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nutaromanova00-ui&theme=material-palenightk&hide_border=true&area=true" />
   </picture>
 </div>
 
