@@ -109,8 +109,8 @@
 ## 🎒 Стажировки
 
 <div align="center">
-    <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/Серт стажировка русский.png">
-    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/Серт стажировка русский.png" width="250" />
+    <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/certificate_internship.png">
+    <img src="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/certificate_internship.png" width="250" />
   </a>
   </div>
   
