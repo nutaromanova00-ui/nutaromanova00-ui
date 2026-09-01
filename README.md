@@ -1,11 +1,23 @@
-## Привет! 👋
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0c2V2a2tjcmFzbG5xY2Z2cjBhYnNiYzhkOGk5bDYzNGF0MmVvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VGcVZyreAU2UewDI81/giphy.gif" width="200"/>
+</div>
 
+<h1
+  align="center"> You've stumbled upon a bug hunter
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpxNWw4NGlobGZienM0NHdxaHQ5a3VlbG16bG5obmt0OWI4enAzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/czXFOXllfbtg0EdlZQ/giphy.gif" width="100"/>
+</h1>
+
+---
+
+
+## 👩‍💻 Обо мне
 Меня зовут **Аня**, и я ручной тестировщик (QA Engineer).  
 Я не просто ищу баги - я помогаю команде не утонуть в торнадо из ошибок. 
 
 Моя цель проста - обеспечить высочайшее качество продукта через чёткую документацию (которую, к слову, я могу составить сама) и структурированный подход.
 
 Я уверена: **баг-репорт - это тоже продукт**, который должен быть понятен разработчику без лишних вопросов.
+
 
 ---
 
@@ -19,7 +31,7 @@
 
 ---
 
-## 🧪 Тестирование API и интеграций
+## 🧩 Тестирование API и интеграций
 
 <div align="center">
   <img src="https://images.icon-icons.com/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" title="Postman" width="45" />
@@ -87,7 +99,7 @@
 ---
 
 
-## 🎒 Образование
+## 🎓 Образование
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/certificate_QA_eng.png">
@@ -104,7 +116,7 @@
 ---
 
 
-## 🎒 Стажировки
+## 💼 Стажировки
 
 <div align="center">
     <a href="https://raw.githubusercontent.com/nutaromanova00-ui/nutaromanova00-ui/refs/heads/main/certificate_internship.png">
@@ -115,7 +127,7 @@
   ---
 
 
-## 🤝 Контакты
+## 📞 Контакты
 
 <div align="center">
   <a href="mailto: romanova.nyut@yandex.ru">
